@@ -10,6 +10,7 @@ libraries:
 
 regions:
   header_top_left: 'Header Top Left'
+  header_top_center: 'Header Top Center'
   header_top_right: 'Header Top Right'
   banner: 'Banner'
   logo:  'Logo'
